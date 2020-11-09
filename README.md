@@ -34,6 +34,18 @@ We also have a [tox](https://tox.readthedocs.io/en/latest/) file which will run 
 `
 tox
 `
+If you are failing on flake8 errors a good starting point that will fix lots of them is to run (black)[https://github.com/psf/black]. This will automatically fix lots of formatting such as spaces, bad commas ect.
+
+`
+black something.py
+`
+
+Also see similar one for notebooks called  (nb-black)[https://pypi.org/project/nb-black/]. At the top of your notebook add 
+
+`
+%load_ext nb_black
+`
+
 
 We will write the majority of the code in the shine module but we will present results/visualisations using notebooks and we will add these [here](https://github.com/rgreen1995/Chance_to_shine/tree/main/notebooks), notebooks are hard to review. So the peer review will happen mostly on the code via pull requests. See git section below
 
