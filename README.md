@@ -62,11 +62,15 @@ We will write the majority of the code in the shine module but we will present r
 
 Help
 -------------------------
+Follow the steps below to set up the repo 
+
 [Setting up repo](https://github.com/rgreen1995/Chance_to_shine/wiki/Setting-up-repository)
 
 [Environments](https://github.com/rgreen1995/Chance_to_shine/wiki/Environments)
 
 [Git and Branching](https://github.com/rgreen1995/Chance_to_shine/wiki/Git-and-Branching)
+
+**Please remember to run tox before submiting any changes, and to submit all changes via a pull request in a new branch**
 
 Trello 
 -------------------------
