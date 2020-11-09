@@ -59,15 +59,6 @@ Also see similar one for notebooks called  (nb-black)[https://pypi.org/project/n
 
 We will write the majority of the code in the shine module but we will present results/visualisations using notebooks and we will add these [here](https://github.com/rgreen1995/Chance_to_shine/tree/main/notebooks), notebooks are hard to review. So the peer review will happen mostly on the code via pull requests. See git section below
 
-
-Meeting notes
--------------------------
-[First meeting](https://github.com/rgreen1995/Chance_to_shine/wiki/First-Meeting-(04-11-20))
-
-Trello 
--------------------------
-[Planning board](https://trello.com/b/2XCA7WDI/chance-to-shine)
-
 Help
 -------------------------
 [Setting up repo](https://github.com/rgreen1995/Chance_to_shine/wiki/Setting-up-repository)
@@ -75,3 +66,15 @@ Help
 [Environments](https://github.com/rgreen1995/Chance_to_shine/wiki/Environments)
 
 [Git and Branching](https://github.com/rgreen1995/Chance_to_shine/wiki/Git-and-Branching)
+
+Trello 
+-------------------------
+[Planning board](https://trello.com/b/2XCA7WDI/chance-to-shine)
+
+Meeting notes
+-------------------------
+[First meeting](https://github.com/rgreen1995/Chance_to_shine/wiki/First-Meeting-(04-11-20))
+
+
+
+
