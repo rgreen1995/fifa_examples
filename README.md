@@ -48,4 +48,8 @@ Trello
 
 Help
 -------------------------
+[Setting up repo](https://github.com/rgreen1995/Chance_to_shine/wiki/Setting-up-repository)
+
+[Environments](https://github.com/rgreen1995/Chance_to_shine/wiki/Environments)
+
 [Git and Branching](https://github.com/rgreen1995/Chance_to_shine/wiki/Git-and-Branching)
