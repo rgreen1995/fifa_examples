@@ -24,4 +24,4 @@ Trello
 
 Help
 -------------------------
-[Git and Branching](https://github.com/rgreen1995/Chance_to_shine.wiki.git)
+[Git and Branching](https://github.com/rgreen1995/Chance_to_shine/wiki/Git-and-Branching)
