@@ -1,10 +1,20 @@
-Chance_to_shine
+Chance to shine
 =========================================================
 
 
 Overview
 -------------------------
+We are working with [chancetoshine](https://www.chancetoshine.org/), which is a charity that aims to improve young people's lives through cricket.  They have two main branches
 
+1.Schools  
+* State schools in England (and Wales ?), 5000 schools, 600,000 children.
+* Aim to improve children's physical literacy and teacher confidence 
+
+2.Street  
+* Targeted at more deprived communities,
+* aim to engage children who are not generally active e.g BAME, girls, ect
+
+We will help them understand the data they have collected and provide insights regarding key business questions (see wikis)
 
 Roles
 -------------------------
