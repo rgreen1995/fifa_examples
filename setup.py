@@ -3,7 +3,7 @@
 from setuptools import find_packages, setup
 
 NAME = "MACE"
-PACKAGES = find_packages(where="src/")
+PACKAGES = find_packages(where="src")
 print(PACKAGES)
 
 REQUIRED = [
