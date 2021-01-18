@@ -21,6 +21,11 @@ def test_divide_by_two(init_data):
     expected_data = np.array([0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5])
     assert len(halved_data) == len(init_data)
     np.testing.assert_allclose(halved_data, expected_data)
+
+def test_load_pupil_data():
+    loaded = load_pupil_data()
+    assert loaded.shape == (9246, 27)
+    assert type(loaded) == pd.core.frame.DataFrame
     
 test_dict = {'col1': [1, 2, 99.0, np.nan], 'col2': [99.0, np.nan, 3, 4]}
 test_df = pd.DataFrame(data=test_dict)
