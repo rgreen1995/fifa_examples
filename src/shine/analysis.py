@@ -24,7 +24,7 @@ def load_pupil_data() -> pd.core.frame.DataFrame:
     Function to load Chance To Shine school pupil dataset from Sunbird storage area 
     to a Pandas DataFrame. 
     """
-    df = pd.read_csv('../scw1738/ChanceToShine/School_Pupil_Data/pupil_data_clean.csv', header=0)
+    df = pd.read_csv('/cdt_storage/scw1738/ChanceToShine/School_Pupil_Data/pupil_data_clean.csv', header=0)
     return df
 
 def remove_NoVal_col(df: pd.core.frame.DataFrame, label: str) -> pd.core.series.Series:
