@@ -53,7 +53,7 @@ Follow the steps below to set up the repo
 
 [Git and Branching](https://github.com/rgreen1995/fifa_examples/wiki/Git-and-Branching)
 
-** As we don't have any CI/CD set up yet please remember to run tox before submiting any changes, and to submit all changes via a pull request in a new branch**
+**As we don't have any CI/CD set up yet, please remember to run tox before submiting any changes, and to submit all changes via a pull request in a new branch**
 
 
 
