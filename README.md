@@ -10,13 +10,13 @@ This repository contains some of the code that was used to train my team during 
 Repo Structure
 -------------------------
 
-Code lives in [shine](https://github.com/rgreen1995/Chance_to_shine/tree/main/src/shine), this can then be used as e.g:
+Code lives in [shine](https://github.com/rgreen1995/fifa_examples/tree/main/src/shine), this can then be used as e.g:
 
 `
 from shine import analysis
 `
 
-When adding code try to add a test for every function, these live in [tests](https://github.com/rgreen1995/Chance_to_shine/tree/main/tests), to run tests either run 
+When adding code try to add a test for every function, these live in [tests](https://github.com/rgreen1995/fifa_examples/tree/main/tests), to run tests either run 
 
 `
 pytest tests/
@@ -41,19 +41,19 @@ Also see similar one for notebooks called  [nb-black](https://pypi.org/project/n
 `
 
 
-We will write the majority of the code in the shine module but we will present results/visualisations using notebooks and we will add these [here](https://github.com/rgreen1995/Chance_to_shine/tree/main/notebooks), notebooks are hard to review. So the peer review will happen mostly on the code via pull requests. See git section below
+We will write the majority of the code in the shine module but we will present results/visualisations using notebooks and we will add these [here](https://github.com/rgreen1995/fifa_examples/tree/main/notebooks), notebooks are hard to review. So the peer review will happen mostly on the code via pull requests. See git section below
 
 Help
 -------------------------
 Follow the steps below to set up the repo 
 
-[Setting up repo](https://github.com/rgreen1995/Chance_to_shine/wiki/Setting-up-repository)
+[Setting up repo](https://github.com/rgreen1995/fifa_examples/wiki/Setting-up-repository)
 
-[Environments](https://github.com/rgreen1995/Chance_to_shine/wiki/Environments)
+[Environments](https://github.com/rgreen1995/fifa_examples/wiki/Environments)
 
-[Git and Branching](https://github.com/rgreen1995/Chance_to_shine/wiki/Git-and-Branching)
+[Git and Branching](https://github.com/rgreen1995/fifa_examples/wiki/Git-and-Branching)
 
-**Please remember to run tox before submiting any changes, and to submit all changes via a pull request in a new branch**
+**As we don't have any CI/CD set up yet, please remember to run tox before submiting any changes, and to submit all changes via a pull request in a new branch**
 
 
 
