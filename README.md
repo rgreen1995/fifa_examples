@@ -4,26 +4,7 @@ Chance to shine
 
 Overview
 -------------------------
-We are working with [chancetoshine](https://www.chancetoshine.org/), which is a charity that aims to improve young people's lives through cricket.  They have two main branches
-
-1.Schools  
-* State schools in England (and Wales ?), 5000 schools, 600,000 children.
-* Aim to improve children's physical literacy and teacher confidence 
-
-2.Street  
-* Targeted at more deprived communities,
-* aim to engage children who are not generally active e.g BAME, girls, ect
-
-We will help them understand the data they have collected and provide insights regarding key business questions (see wikis)
-
-Roles
--------------------------
-* Robbie will lead the analysis looking mostly at teacher confidence - see wiki [here](https://github.com/rgreen1995/Chance_to_shine/wiki/Teacher-Confidence) for more info
-* Matt will lead on the student participant data in schools - see wiki [here](https://github.com/rgreen1995/Chance_to_shine/wiki/School-Participant) for more info
-* Joel will lead on the street participant data - see wiki [here](https://github.com/rgreen1995/Chance_to_shine/wiki/Street-participant) for more info
-* Tonicha is lead communicator and so will guide the analysts using her discussions with the charity
-* Rhys will PM and ensure that the team is ready for the hackathon day
-
+This repository contains some of the code that was used to train my team during the CDT's data aid initiative, all confidentital code and data have been removed, instead we show some of the code using the open source fifa10 dataset
 Repo Structure
 -------------------------
 
