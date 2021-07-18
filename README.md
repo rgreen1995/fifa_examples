@@ -4,7 +4,9 @@ Data Aid example code
 
 Overview
 -------------------------
-This repository contains some of the code that was used to train my team during the CDT's data aid initiative, all confidentital code and data have been removed, instead we show some of the code using the open source fifa10 dataset
+
+This repository contains some of the code that was used to train my team during the CDT's data aid initiative, all confidentital code and data have been removed, instead I've adapted some of the tutorials and code to work on the open source fifa19 dataset
+
 Repo Structure
 -------------------------
 
